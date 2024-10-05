@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 nav {  
     background-color: steelblue;  
     padding: 10px;  
@@ -14,14 +20,17 @@ h1 {
 }  
 
 main img {  
-    width: 150px; /* More specific image rule */  
+    width: 115px; /* More specific image rule */  
     height: auto;  
     border: 1px solid steelblue;  
     padding: 2px;  
-    box-shadow: 0 0 30px gray;  
+    box-shadow: 0 0 25px gray;  
+    float: right;
+    margin: 0 0 1rem 1rem;
 }  
 
 p {  
+    margin: 1rem;
     padding: 0; /* Padding with no units is valid */  
 }  
 
@@ -33,6 +42,7 @@ footer {
 
 main {  
     max-width: 840px; /* Added 'px' for dimension */  
+    padding: 1rem;
 }  
 
 aside {  
@@ -49,3 +59,21 @@ aside img {
     width: 200px;  
     height: auto;  
 }
+
+aside h2 {
+    position: absolute;
+    top: 850px;
+    left: 151px;
+    color: white;
+}
+
+/* clsss selectors */
+.box {
+    margin: 1rem;
+    border: 1px solid rgba(0,0,0,.1):
+    padding: 1rem;
+    background-color: #eee;  
+    color: #000;
+}
+
+
