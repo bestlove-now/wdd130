@@ -1,0 +1,47 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      .5      Watched video on 
+=============Example====================
+
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
+
+
+
+            Time Spent
+    Date     (hours)    Description of Work
+----------  ----------  --------------------------
+2024-10-19      1.5     Set up the fitness_logger.py file and initial functions
+2024-10-19	    2	    Researched SQLite integration and created log and summary functions
+2024-10-21	    1.5	    Developed functions for logging activities and retrieving daily summaries
+2024-10-22	    3	    Implemented get_total_workouts and get_weekly_summary functions
+2024-10-24	    2	    Added database save/load functions for activity storage
+2024-10-24	    1.5	    Created unit tests for main functions using pytest and debugged initial issues.
+2024-10-27	    2	    Refined database structure, added error handling, and optimized SQL queries
+2024-10-29	    1.5	    Updated code to handle user input errors and enhanced testing coverage
+2024-10-30	    3	    Built and tested functions for calculating average calories per workout
+2024-10-31	    2.5	    Final testing, bug fixes, and ensured all test cases passed in test_fitness_logger.py
+
